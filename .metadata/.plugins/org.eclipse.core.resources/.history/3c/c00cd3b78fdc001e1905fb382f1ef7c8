@@ -1,0 +1,40 @@
+package myproject;
+
+public class class3 {
+	void student() {
+		String name="rupesh";
+		int age=24;
+		System.out.println("Name: "+ name +"\nAge: "+age);
+	}
+public class classA {
+	static void company(){ 
+		String name="uncodemy";
+		int mobileno=2456756;
+		System.out.println("Name: "+ name +"\nMobileno: "+mobileno);
+	}
+public class classB {
+	static void agency() {
+		String name="audi";
+		int bonutno=24;
+		System.out.println("Name: "+ name +"\nBonutno: "+bonutno);
+	}
+	
+}
+	public static void main(String[] args) {
+		
+		class3 class3= new class3();
+	    class3.student();
+	    classA classA= new classA();
+	    classA.company();	
+	    classB classB= new classB();
+		classB.agency();
+
+		
+	}
+	} 
+		
+
+
+
+
+

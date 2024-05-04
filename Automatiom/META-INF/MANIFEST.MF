@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Automatiom
+Bundle-SymbolicName: Automatiom
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Automatiom
+Bundle-RequiredExecutionEnvironment: JavaSE-19

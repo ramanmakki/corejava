@@ -1,0 +1,15 @@
+package tainning;
+
+public class demo { 
+
+	public static void main( String[] arg ) 
+	{
+		int a = 11;
+		int b = 3;
+		
+		  int c = b + 8
+		  
+		  
+		  
+	   }
+	}

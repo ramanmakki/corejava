@@ -1,0 +1,25 @@
+package tainning;
+
+public class demo { 
+
+	public static void main( String[] arg ) 
+	{
+		int a = 20;
+		int b = 70;
+		int c = 89;
+		
+		if (a>b) 
+		{
+			System.out.println("A is greater");
+			
+			if (b>c) 
+			{
+		
+			 System.out.println("B is greater");
+			 
+			}
+		}
+		System.out.println("=====");
+		
+	}
+}

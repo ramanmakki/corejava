@@ -1,0 +1,25 @@
+package tainning;
+
+public class demo { 
+
+	public static void main( String[] arg ) 
+	{
+		byte a = 127;
+		
+		short b = -32768;
+		
+		char c = '*';
+		
+		int d = 100;
+		int e = 90;
+		
+		boolean f = d>e;
+		
+		System.out.println(f);
+				
+		
+		  
+		  
+		  
+	   }
+	}
